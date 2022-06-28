@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Wear.iml" filepath="$PROJECT_DIR$/.idea/modules/Wear.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Application/Wear.Application.iml" filepath="$PROJECT_DIR$/.idea/modules/Application/Wear.Application.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Application/Wear.Application.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/Application/Wear.Application.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Application/Wear.Application.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Application/Wear.Application.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Application/Wear.Application.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/Application/Wear.Application.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Wearable/Wear.Wearable.iml" filepath="$PROJECT_DIR$/.idea/modules/Wearable/Wear.Wearable.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Wearable/Wear.Wearable.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/Wearable/Wear.Wearable.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Wearable/Wear.Wearable.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Wearable/Wear.Wearable.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Wearable/Wear.Wearable.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/Wearable/Wear.Wearable.unitTest.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <string name="app_name">Wear Walk App</string>
+    <string name="waiting">Waiting for data to arrive\u2026</string>
+    <string name="query_other_devices">Query for other devices</string>
+    <string name="no_device">No device provides the requested capabilities</string>
+    <string name="connected_nodes">Nodes: %1$s</string>
+    <string name="message">Message</string>
+    <string name="capability_changed">Capability changed</string>
+    <string name="data_item_changed">DataItem changed</string>
+    <string name="data_item_deleted">DataItem deleted</string>
+    <string name="data_item_unknown">Unknown DataItem type</string>
+    <string name="hello_world">Hello World</string>
+    <string name="start">start</string>
+    <string name="step">Step Count</string>
+
+    <!-- Notification related strings. -->
+    <string name="step_count_loading">Step Count loading…</string>
+    <string name="notification_title">Step Count</string>
+    <string name="launch_activity">Launch activity</string>
+    <string name="stop_walking_notification_text">Stop Walk</string>
+
+    <!-- Activity related strings. -->
+    <string name="default_greeting_message">Click to start your walking!</string>
+    <string name="start_walking_button_text">Start Walking</string>
+    <string name="stop_walking_button_text">Stop Walking</string>
+
+    <!-- Shared Service and Activity strings. -->
+    <string name="step_count_text">%1$d steps!</string>
+    <string name="stop">Stop</string>
+    <string name="cancel_walk">Cancel Walk</string>
+    <string name="start_walk">Start Waliking</string>
+    <string name="stop_walking">Stop Walking</string>
+</resources>
